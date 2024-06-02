@@ -59,7 +59,6 @@ npm run dev
 
 ### Committing
 
-- Use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) when applicable (recommended but not required)
 - Always use present tense in commit messages
 - Always review your changes before committing
 - A pre-commit hook type checks the code base. If it fails but you want to commit a WIP anyway use `--no-verify`
